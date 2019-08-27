@@ -1,95 +1,104 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="hddp://www.w3.org/2005/Atom">
   <channel>
-    <title>Tracks</title>
+    <title>China DSF(en)</title>
     <link>/</link>
-    <description>Recent content on Tracks</description>
+    <description>Recent content on China DSF(en)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2019 18:25:22 +0530</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>This is a Standard Post</title>
-      <link>/post/work2/</link>
-      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      <title>This is a Standard Post : 2019-07-02T18:25:22&#43;05:30</title>
+      <link>/post/201907/work02/</link>
+      <pubDate>Tue, 02 Jul 2019 18:25:22 +0530</pubDate>
       
-      <guid>/post/work2/</guid>
+      <guid>/post/201907/work02/</guid>
       <description>&lt;p&gt;This is what an ordinary post looks like, and you’re reading a custom excerpt right now. Have fun looking around the theme, and don’t forget to check it out on your phone!&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Another Awesome Post</title>
-      <link>/post/work3/</link>
-      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
+      <title>Another Awesome Post : 2019-07-03T18:25:22&#43;05:30</title>
+      <link>/post/201907/work03/</link>
+      <pubDate>Wed, 03 Jul 2019 18:25:22 +0530</pubDate>
       
-      <guid>/post/work3/</guid>
+      <guid>/post/201907/work03/</guid>
       <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>A post without an Image</title>
-      <link>/post/work4/</link>
-      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
+      <title>A post without an Image : 2019-07-04T18:25:22&#43;05:30</title>
+      <link>/post/201907/work04/</link>
+      <pubDate>Thu, 04 Jul 2019 18:25:22 +0530</pubDate>
       
-      <guid>/post/work4/</guid>
+      <guid>/post/201907/work04/</guid>
       <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>A Totally Response Theme</title>
-      <link>/post/work5/</link>
-      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
+      <title>A Totally Response Theme : 2019-07-05T18:25:22&#43;05:30</title>
+      <link>/post/201907/work05/</link>
+      <pubDate>Fri, 05 Jul 2019 18:25:22 +0530</pubDate>
       
-      <guid>/post/work5/</guid>
+      <guid>/post/201907/work05/</guid>
       <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Post with a Gallery</title>
-      <link>/post/work7/</link>
-      <pubDate>Sat, 05 Nov 2016 19:57:40 +0530</pubDate>
+      <title>Post with a Gallery : 2019-07-07T18:25:22&#43;05:30</title>
+      <link>/post/201908/work07/</link>
+      <pubDate>Sun, 07 Jul 2019 18:25:22 +0530</pubDate>
       
-      <guid>/post/work7/</guid>
+      <guid>/post/201908/work07/</guid>
       <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>A Post with lot of comments</title>
-      <link>/post/work8/</link>
-      <pubDate>Sat, 05 Nov 2016 19:59:22 +0530</pubDate>
+      <title>A Post with lot of comments : 2019-07-08T18:25:22&#43;05:30</title>
+      <link>/post/201908/work08/</link>
+      <pubDate>Mon, 08 Jul 2019 18:25:22 +0530</pubDate>
       
-      <guid>/post/work8/</guid>
+      <guid>/post/201908/work08/</guid>
       <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Blogging is Fun and Worthwhile</title>
-      <link>/post/work9/</link>
-      <pubDate>Sat, 05 Nov 2016 20:02:19 +0530</pubDate>
+      <title>Blogging is Fun and Worthwhile : 2019-07-09T18:25:22&#43;05:30</title>
+      <link>/post/201908/work09/</link>
+      <pubDate>Tue, 09 Jul 2019 18:25:22 +0530</pubDate>
       
-      <guid>/post/work9/</guid>
+      <guid>/post/201908/work09/</guid>
       <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Item with image</title>
-      <link>/post/work10/</link>
-      <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
+      <title>Item with image : 2019-07-10T18:25:22&#43;05:30</title>
+      <link>/post/201908/work10/</link>
+      <pubDate>Wed, 10 Jul 2019 18:25:22 +0530</pubDate>
       
-      <guid>/post/work10/</guid>
+      <guid>/post/201908/work10/</guid>
       <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Item with image</title>
-      <link>/post/work11/</link>
-      <pubDate>Sat, 05 Nov 2016 20:23:59 +0530</pubDate>
+      <title>Item with image : 2019-07-11T18:25:22&#43;05:30</title>
+      <link>/post/201908/work11/</link>
+      <pubDate>Thu, 11 Jul 2019 18:25:22 +0530</pubDate>
       
-      <guid>/post/work11/</guid>
+      <guid>/post/201908/work11/</guid>
       <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>(Name of the work 01 : 2019-07-01T18:25:22&#43;05:30</title>
+      <link>/post/201907/work01/</link>
+      <pubDate>Mon, 01 Jul 2019 18:25:22 +0530</pubDate>
+      
+      <guid>/post/201907/work01/</guid>
+      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -110,15 +119,6 @@ Effects present letters inquiry no an removed or friends. Desire behind latter m
       <guid>/about/</guid>
       <description>An sincerity so extremity he additions. Her yet there truth merit. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
 Received overcame oh sensible so at an. Formed do change merely to county it. Am separate contempt domestic to to oh. On relation my so addition branched. Put hearing cottage she norland letters equally prepare too.</description>
-    </item>
-    
-    <item>
-      <title>Name of the work 1</title>
-      <link>/post/work1/</link>
-      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
-      
-      <guid>/post/work1/</guid>
-      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&lt;/p&gt;</description>
     </item>
     
   </channel>

@@ -3,48 +3,95 @@
   xmlns:xhtml="hddp://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/work2/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+    <loc>/post/201907/work02/</loc>
+    <lastmod>2019-07-02T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/post/work3/</loc>
-    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
+    <loc>/post/201907/work03/</loc>
+    <lastmod>2019-07-03T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/post/work4/</loc>
-    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
+    <loc>/post/201907/work04/</loc>
+    <lastmod>2019-07-04T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/post/work5/</loc>
-    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
+    <loc>/post/201907/work05/</loc>
+    <lastmod>2019-07-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/post/work7/</loc>
-    <lastmod>2016-11-05T19:57:40+05:30</lastmod>
+    <loc>/post/201908/work07/</loc>
+    <lastmod>2019-07-07T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/post/work8/</loc>
-    <lastmod>2016-11-05T19:59:22+05:30</lastmod>
+    <loc>/post/201908/work08/</loc>
+    <lastmod>2019-07-08T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/post/work9/</loc>
-    <lastmod>2016-11-05T20:02:19+05:30</lastmod>
+    <loc>/post/201908/work09/</loc>
+    <lastmod>2019-07-09T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/post/work10/</loc>
-    <lastmod>2016-11-05T20:22:08+05:30</lastmod>
+    <loc>/post/201908/work10/</loc>
+    <lastmod>2019-07-10T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/post/work11/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
+    <loc>/post/201908/work11/</loc>
+    <lastmod>2019-07-11T18:25:22+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-07-11T18:25:22+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-07-11T18:25:22+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-07-05T18:25:22+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/photography/</loc>
+    <lastmod>2019-07-05T18:25:22+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/code/</loc>
+    <lastmod>2019-07-04T18:25:22+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/travel/</loc>
+    <lastmod>2019-07-03T18:25:22+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/design/</loc>
+    <lastmod>2019-07-02T18:25:22+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/post/201907/work01/</loc>
+    <lastmod>2019-07-01T18:25:22+05:30</lastmod>
   </url>
   
   <url>
@@ -53,55 +100,8 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2016-11-06T13:00:25+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/about/</loc>
     <lastmod>2016-11-05T21:05:33+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2016-11-05T20:23:59+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/photography/</loc>
-    <lastmod>2016-11-05T19:53:42+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/code/</loc>
-    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/travel/</loc>
-    <lastmod>2016-11-05T19:44:32+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/design/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/post/work1/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>

@@ -1,5 +1,5 @@
 baseurl = "/"
-title = "Tracks"
+title = "China DSF(en)"
 theme = "hugo-tracks-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -11,11 +11,12 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "default"
   pages = false
-  description = "Describe your website"
-  copyright = "&copy;2016 Your name or company"
+  description = "The China Democratic Salvation Front(English Version)"
+  copyright = "&copy;2019 The China Democratic Salvation Front"
   sidebarAbout = [
-    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
-    "Originally from Toronto, currently based in London."
+    "*Democratic Salvation Front: ",
+    "This organization was founded on December, 12, 2017 by Mr. Baiqiao Tang with other chinese dissidents.",
+    "The purpose of this organization is to promote the democratic revolution in China in order to end the CCP tyrannic regime as early as possible."
   ]
 
   # Contact page
@@ -30,7 +31,7 @@ googleAnalytics = ""
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "you@yoursite.com"
+  email = "chinadsf@chinadsf.org"
 
   # Nav links in the side bar
   [[params.navlinks]]
@@ -46,11 +47,11 @@ googleAnalytics = ""
   url = "contact/"
 
   [params.social]
-  facebook      = "full page or profile url in facebook"
-  googleplus    = "full profile url in googleplus"
-  email         = "email@example.com"
-  twitter       = "full profile url in twitter"
-  linkedin      = "full profile url in linkedin"
-  stackoverflow = "full profile url in stackoverflow"
-  instagram     = "full profile url in instagram"
-  github        = "full profile url in github"
+  facebook      = "https://www.facebook.com/mzjgzx"
+  googleplus    = "hunanrentang@gmail.com"
+  email         = "minzhujiuguozhenxian@gmail.com"
+  twitter       = "https://twitter.com/mzjgzx"
+#  linkedin      = "full profile url in linkedin"
+#  stackoverflow = "full profile url in stackoverflow"
+#  instagram     = "full profile url in instagram"
+  github        = "https://github.com/chinadsfdsf/"
