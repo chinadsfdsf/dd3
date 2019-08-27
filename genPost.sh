@@ -28,10 +28,12 @@ do
 
     mkdir -p ${dd3}
 
+
     cat ${bb1} \
         | sed \
         -e "s;${bb3};${dd1};g" \
-        -e "s;${bb2};${ff22};g" \
+        -e "s;${bb2};/${ff22};g" \
+        -e "s;jpgJPGjpgHere;![/${ff22}](/${ff22});g" \
         > ${ff11}
 
     convert \
