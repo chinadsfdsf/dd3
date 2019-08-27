@@ -34,6 +34,7 @@ do
         -e "s;${bb3};${dd1};g" \
         -e "s;${bb2};/${ff22};g" \
         -e "s;jpgJPGjpgHere;![/${ff22}](/${ff22});g" \
+        -e "s;categoriesTravel;20${aa1};g" \
         > ${ff11}
 
     convert \
