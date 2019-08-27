@@ -8,14 +8,14 @@ bb4=scripts.Hugo/content/post
 
 rm -fr ${bb4}/*
 
-#for aa1 in 00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19
-for aa1 in 00 18
+for aa1 in 00 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19
+#for aa1 in 00 18
 do
-#for aa2 in 01 02 03 04 05 06 07 08 09 10 11 12 
-for aa2 in 01 12
+for aa2 in 01 02 03 04 05 06 07 08 09 10 11 12 
+#for aa2 in 01 12
 do
-#for aa3 in 01 02 07 08 13 14 21 22 27 28
-for aa3 in 02 07
+for aa3 in 01 02 07 08 13 14 21 22 27 28
+#for aa3 in 02 07
 do
 
     dd1=20${aa1}-${aa2}-${aa3}
